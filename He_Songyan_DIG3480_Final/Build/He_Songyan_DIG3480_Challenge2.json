@@ -1,0 +1,16 @@
+{
+"companyName": "DefaultCompany",
+"productName": "dig3480-Tutorial-2-supplemental",
+"productVersion": "0.1",
+"dataUrl": "He_Songyan_DIG3480_Challenge2.data.unityweb",
+"wasmCodeUrl": "He_Songyan_DIG3480_Challenge2.wasm.code.unityweb",
+"wasmFrameworkUrl": "He_Songyan_DIG3480_Challenge2.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.1f1"
+}
